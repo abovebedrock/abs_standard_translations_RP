@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "metadata": {
+        "authors": [ "LJM12914" ]
+    },
+    "header": {
+        "name": "译名标准化",
+        "description": "基岩之上服务器模组。将基岩版简体中文翻译修改为标准化译名，目前主要集中于纠错。",
+        "min_engine_version": [ 1, 21, 2 ],
+        "uuid": "e1cc9c62-c954-41ee-b79a-ef184e9113c9",
+        "version": [ 1, 2, 0 ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "2abca813-b7c2-4d98-8fc0-39ff76d3c4e8",
+            "version": [ 1, 0, 0 ]
+        }
+    ]
+}
